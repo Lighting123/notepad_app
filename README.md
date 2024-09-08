@@ -1,6 +1,6 @@
 # notepad_app
 
-A new Flutter project.
+A notepad app for Android made using Flutter
 
 ## Getting Started
 
